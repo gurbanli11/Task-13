@@ -1,0 +1,15 @@
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\bin\Debug\net6.0\Task.04.04.exe
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\bin\Debug\net6.0\Task.04.04.deps.json
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\bin\Debug\net6.0\Task.04.04.runtimeconfig.json
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\bin\Debug\net6.0\Task.04.04.dll
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\bin\Debug\net6.0\Task.04.04.pdb
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.dll
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\refint\Task.04.04.dll
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.pdb
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\Task.04.04.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Masaüstü\Task04.04\Task.04.04\Task.04.04\obj\Debug\net6.0\ref\Task.04.04.dll
